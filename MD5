@@ -1,0 +1,14 @@
+9428663ad6d5b9eaa3230e6859dda994 *DESCRIPTION
+486c929c9495ead828d0b3f46cc0847d *LICENSE
+eda3fb36ff4870ffda3576f545e18b5a *NAMESPACE
+f295e7a7188157752d086d1629e60bc9 *R/PurpleAirAPI.R
+8abc29f29da6d775f54cfbf2c5bef53f *README.md
+d574acab8f6944267cc70c45c8b15968 *build/vignette.rds
+08c3a0dd528da642012b05a52ee1313d *inst/doc/getting-started-with-purpleairapi.R
+9257b0e69fd3ea34b630595a90fe868a *inst/doc/getting-started-with-purpleairapi.Rmd
+2e7c2e23c23fcc864d83691157841347 *inst/doc/getting-started-with-purpleairapi.html
+e4e8af9154853ea17b59ac863f7fa3c4 *man/getPurpleairSensors.Rd
+2076aefd16e6990a38d2ab2f2c867db3 *man/getSensorHistory.Rd
+c5852b0ff87219213d2fb14526a51981 *tests/testthat.R
+55b3db465bc59cbfcff4f795efe43c30 *tests/testthat/test-api-functions.R
+9257b0e69fd3ea34b630595a90fe868a *vignettes/getting-started-with-purpleairapi.Rmd
